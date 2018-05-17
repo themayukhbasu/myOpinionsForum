@@ -1,0 +1,27 @@
+1. Editing and deleting of the discussion topic by the user (N)
+
+2. Upward Downward voting (N)
+
+3. Trending post sidebar (N)
+
+4. password change forgot password (D)
+
+5. User email verification (D)
+
+6. Welcome Message for New User (D)
+
+7. Bookmark (N)
+
+8. Search discussions
+
+9. Notification
+
+10. Topic tagging
+
+11. User profile (D)
+    - Display of number of discussions and answers they have posted.
+	- Profile picture
+
+12. Follow user (D)
+	
+13. sharing in social media

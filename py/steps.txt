@@ -1,0 +1,8 @@
+Steps of Spam Classification:
+
+> Build Datasets
+> Build Model
+> Test Model
+> Persist model with pickle or joblib
+> Unpickle model for use
+> predict result
